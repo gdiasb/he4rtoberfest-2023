@@ -12,7 +12,7 @@
 
 **Dificuldade de Resolução:** Baixa
 
-**Comentários:** Implode, boom!
+**Comentários:** Não tenha 1000 tabs abertas, cabeção
 
 **Como rodar o desafio**: 
 
